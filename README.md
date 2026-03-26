@@ -41,4 +41,4 @@ Currently studying AI agent development through the Dynamous community (AI Agent
 
 ---
 
-*Methuen, MA*
+*Tyngsboro, MA*
